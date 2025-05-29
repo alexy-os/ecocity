@@ -37,7 +37,7 @@ npm start
 
 ## Documentation
 
-See [markmap.md](markmap.md) or browser [mindmap.html](mindmap.html) for detailed platform architecture and features.
+See [MarkMap](markmap.md) or browser [RoadMap](https://ecocity.alexy-os.com/) for detailed platform architecture and features.
 
 ## License
 
